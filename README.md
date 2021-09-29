@@ -18,25 +18,27 @@ C / CPP Compiler : <a href="">GNU GCC</a>
 
 <h2> Installing TNote</h2>
 
-2.1 > Open Terminal
+Open your terminal (require snap store auth.)
 
-> 2.2 > Install "relase / latest" edition this code; 
+Install "relase / latest" edition this code; 
 
 ```
-~$ sudo snap install tnote 
+sudo snap install tnote
 ```
 or
 ```
-~$ sudo snap install tnote -release
+sudo snap install tnote -release
 ```
 
-> 2.3 > Install "canary"  edition this code (half-experimental)
+
+
+Install "canary"  edition this code (half-experimental)
 
 ```
 ~$ sudo snap install tnote -canary
 ```
 
-> 2.3 > Install "dev" edition this code (experimental)
+Install "dev" edition this code (experimental)
 
 ```
 ~$ sudo snap install tnote -dev
