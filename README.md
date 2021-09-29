@@ -1,4 +1,4 @@
-<h2 align="center"><b>TNote</b></h2>
+<h2 align="center">TNote</h2>
 <p align="center">
   <a href="https://github.com/macesdev/tnote/">REPO OSS </a> -
   <a href="https://macesdev.github.io/macesdev/projects/tnote/license">LICENSE</a>
