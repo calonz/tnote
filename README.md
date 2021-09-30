@@ -18,6 +18,10 @@ C / CPP Compiler : <a href="">GNU GCC</a>
 
 <h2> Installing TNote</h2>
 
+[![tnote](https://snapcraft.io/tnote/badge.svg)](https://snapcraft.io/tnote)
+
+**OR**
+
 Open your terminal (require snap store auth.)
 
 Install "rstable (release)" edition this code; 
