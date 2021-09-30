@@ -20,14 +20,14 @@ C / CPP Compiler : <a href="">GNU GCC</a>
 
 Open your terminal (require snap store auth.)
 
-Install "relase / latest" edition this code; 
+Install "rstable (release)" edition this code; 
 
 ```
 sudo snap install tnote
 ```
 or
 ```
-sudo snap install tnote -release
+sudo snap install tnote -stable
 ```
 
 
