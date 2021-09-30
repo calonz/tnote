@@ -1,0 +1,19 @@
+name: tnote
+base: core18 
+version: '1.0.0'
+summary: A Notepad where you can keep your daily, monthly plan..
+description: |
+
+  TNote is open source, built with the C++ (CPP) language. It is a handy notepad released on Snap (snapcraft.io) store. CLion and Code::Blocks IDEs are effective in its development. The update system consists of x.x.x (3-tier version system) and is usually scheduled to receive updates 4 times a year. It is a hybrid project from macesdev foundation developers (in general) and supports most file formats.Developed by macesdev foundation (github.com/macesdev/tnote).
+
+grade: stable
+confinement: strict
+
+apps: 
+  tnote:
+    command: bash bin/CBash/tnote.bash
+    
+parts:
+  my-part:
+    plugin: nil
+   
